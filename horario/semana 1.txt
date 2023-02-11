@@ -23,6 +23,7 @@ Miercoles:
 -irme a la udea
 -ver algebra lineal en la udea
 -irme a la casa
+-leer
 -repasar lo que vimos en el dia
 -dormir
 
@@ -50,6 +51,7 @@ Sabado:
 -hacer alguna tarea que me hayan dejado
 -repasar algun tema que no entienda bien
 -almorzar
+-leer
 -dibujar
 -jugar en el pc con mi hermana
 -dormir
