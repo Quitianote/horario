@@ -6,6 +6,7 @@ Lunes:
 -almorzar
 -repasar lo que vimos en el dia
 -dormir
+
 Martes:
 -despertar
 -ver informatica 2 en la udea
@@ -14,14 +15,17 @@ Martes:
 -ver ingles 3 virtual
 -repasar lo que vimos en el dia
 -dormir
+
 Miercoles:
 -despertar
 -ver calculo integral virtual
+-jugar valorant
 -irme a la udea
 -ver algebra lineal en la udea
 -irme a la casa
 -repasar lo que vimos en el dia
 -dormir
+
 Jueves:
 -despertar
 -ver informatica 2 en la udea
@@ -30,20 +34,25 @@ Jueves:
 -ver ingles 3 virtual
 -repasar lo que vimos en el dia
 -dormir
+
 Viernes:
 -despertar
 -ver calculo integral virtual
+-jugar valorant
 -irme a la udea
 -ver algebra lineal en la udea
 -irme a la casa
--jugar con un amigo gta v
+-repasar lo que vimos en el dia
 -dormir
+
 Sabado:
 -despertar
 -repasar algun tema que no entienda bien
 -almorzar
 -hacer alguna tarea que me hayan dejado
 -jugar con un amigo gta v
+-dormir
+
 Domingo:
 -despertar
 -ir a la iglesia
