@@ -4,7 +4,7 @@ Lunes:
 -ver laboratorio de informatica 2 en la udea
 -irme a la casa
 -almorzar
--repasar lo que vimos en el dia
+-ir al cine
 -dormir
 
 Martes:
@@ -23,7 +23,7 @@ Miercoles:
 -irme a la udea
 -ver algebra lineal en la udea
 -irme a la casa
--leer
+-hacer tarea de ingles
 -repasar lo que vimos en el dia
 -dormir
 
