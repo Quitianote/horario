@@ -1,9 +1,10 @@
 Lunes:
 -despertar
 -ver introduccion a la ingenieria en la udea
+-almorzar
+-preguntar sobre servicio social en la biblioteca
 -ver laboratorio de informatica 2 en la udea
 -irme a la casa
--almorzar
 -repasar lo que vimos en el dia
 -dormir
 
@@ -18,12 +19,10 @@ Martes:
 
 Miercoles:
 -despertar
--ver calculo integral virtual
 -jugar valorant
--irme a la udea
--ver algebra lineal en la udea
--irme a la casa
--repasar lo que vimos en el dia
+-repasar calculo
+-almorzar
+-repasar algebra
 -dormir
 
 Jueves:
@@ -31,7 +30,9 @@ Jueves:
 -ver informatica 2 en la udea
 -ver fisica mecanica en la udea
 -irme a la casa
+-jugar en el pc
 -ver ingles 3 virtual
+-adelantar lo de informatica
 -repasar lo que vimos en el dia
 -dormir
 
