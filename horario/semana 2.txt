@@ -32,8 +32,7 @@ Jueves:
 -irme a la casa
 -jugar en el pc
 -ver ingles 3 virtual
--adelantar lo de informatica
--repasar lo que vimos en el dia
+-repasar algebra lineal
 -dormir
 
 Viernes:
@@ -48,17 +47,17 @@ Viernes:
 
 Sabado:
 -despertar
--repasar algun tema que no entienda bien
+-repasar algebra lineal
 -almorzar
--hacer alguna tarea que me hayan dejado
+-hacer tarea de ingles
 -ayudar a traer el mercado
 -jugar con un amigo gta v
 -dormir
 
 Domingo:
 -despertar
--ir a la iglesia
--almorzar en los molinos
+-adelantar lab 1 de informatica
+-almorzar
 -leer
 -dibujar
 -jugar en el pc con mi hermana
